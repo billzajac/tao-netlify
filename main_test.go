@@ -3,7 +3,7 @@ package main_test
 import (
 	"github.com/aws/aws-lambda-go/events"
 	"github.com/stretchr/testify/assert"
-	main "github.com/billzajac/tao-tetragram"
+	main "github.com/billzajac/tao-netlify"
 	"log"
 	"testing"
 )

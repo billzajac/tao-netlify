@@ -40,5 +40,6 @@ func handler(request events.APIGatewayProxyRequest) (*events.APIGatewayProxyResp
 }
 
 func main() {
-  lambda.Start(handler)
+	// Initiate AWS Lambda handler
+	lambda.Start(handler)
 }

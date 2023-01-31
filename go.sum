@@ -1,7 +1,5 @@
 github.com/aws/aws-lambda-go v1.37.0 h1:WXkQ/xhIcXZZ2P5ZBEw+bbAKeCEcb5NtiYpSwVVzIXg=
 github.com/aws/aws-lambda-go v1.37.0/go.mod h1:jwFe2KmMsHmffA1X2R09hH6lFzJQxzI8qK17ewzbQMM=
-github.com/billzajac/tao-tetragram v0.0.0-20230131010512-286b6e55ee6b h1:pHy3/TNPCzaLc+MyG2m8E1kltBf1uKcSZJUCHzhoeJw=
-github.com/billzajac/tao-tetragram v0.0.0-20230131010512-286b6e55ee6b/go.mod h1:mwVCaTzneTmKzR16dNuaWDCea4dyAxgNFeIc9h9PItU=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
